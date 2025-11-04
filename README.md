@@ -3,6 +3,9 @@
 ## 项目简介
 本项目围绕吴恩达老师（Andrew Ng）在 DeepLearning.AI 推出的 Agentic AI 系列课程，致力于为中文学习者提供高质量的课程内容翻译、系统化的知识梳理、关键概念解析以及配套示例代码的详细解读。项目不仅帮助学习者跨越语言障碍，更通过结构化整理与实践引导，深入理解“智能体”（Agent）在现代 AI 系统中的核心作用，掌握构建自主、协作、推理型 AI 应用的关键方法。
 
+**在线视频课程地址：** [DeepLearning.AI - Agentic-ai](https://learn.deeplearning.ai/courses/agentic-ai/)
+
+
 ## 项目受众
 - 对 Agentic AI 感兴趣
 - 正在系统学习LLM高级应用
