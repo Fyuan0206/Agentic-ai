@@ -66,7 +66,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/agentic-ai&type=date&legend=top-left)](https://www.star-history.com/#datawhalechina/agentic-ai&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=datawhalechina/agentic-ai&type=date&legend=top-left)](https://star-history.dera.page/#datawhalechina/agentic-ai&type=date&legend=top-left)
 
 
 ## License
